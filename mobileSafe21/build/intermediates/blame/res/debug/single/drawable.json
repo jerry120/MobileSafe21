@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_location_blue.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\shape_location_blue.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_applock_locked.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\selector_applock_locked.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\applock_tableft_pressed_shape.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\applock_tableft_pressed_shape.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_location_bg.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\shape_location_bg.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_location_gray.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\shape_location_gray.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_first_bg.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\selector_first_bg.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress_circle.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\custom_progress_circle.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_bg.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\selector_button_bg.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\applock_tabright_pressed_shape.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\applock_tabright_pressed_shape.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_edittext_bg.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\shape_edittext_bg.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_location_orange.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\shape_location_orange.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_last_bg.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\selector_last_bg.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\view_custom_progressbar.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\view_custom_progressbar.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_location_green.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\shape_location_green.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_gridview_item_bg.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\selector_gridview_item_bg.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_middle_bg.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\selector_middle_bg.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\applock_tabright_normal_shape.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\applock_tabright_normal_shape.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_process_clean.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\selector_process_clean.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_applock_unlock.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\selector_applock_unlock.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_listview.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\selector_listview.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\drawable\\applock_tableft_normal_shape.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\drawable\\applock_tableft_normal_shape.xml"
+    }
+]

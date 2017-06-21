@@ -1,0 +1,156 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+     xmlns:itheima="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            style="@style/Style_tile"
+            android:text="进程管理" />
+
+        <ImageButton
+            android:id="@+id/ib_process_clean"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_alignParentRight="true"
+            android:background="@null"
+            android:src="@drawable/selector_process_clean" />
+    </RelativeLayout>
+
+    <com.itheima.mobilesafe21.view.ProcessDescView
+        android:id="@+id/pdv_process_num"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </com.itheima.mobilesafe21.view.ProcessDescView>
+
+    <com.itheima.mobilesafe21.view.ProcessDescView
+        android:id="@+id/pdv_process_memory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </com.itheima.mobilesafe21.view.ProcessDescView>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <!-- <ListView -->
+        <!-- android:id="@+id/lv_process" -->
+        <!-- android:layout_width="match_parent" -->
+        <!-- android:layout_height="match_parent" > -->
+        <!-- </ListView> -->
+
+        <se.emilsjolander.stickylistheaders.StickyListHeadersListView
+            android:id="@+id/lv_process"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <SlidingDrawer
+            android:id="@+id/slidingdrawer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:content="@+id/content"
+            android:handle="@+id/handle" >
+
+            <RelativeLayout
+                android:id="@id/handle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/drawer_bg" >
+
+                <ImageView
+                    android:id="@+id/iv_arrow1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="20dp"
+                    android:src="@drawable/drawer_arrow_up" />
+
+                <ImageView
+                    android:id="@+id/iv_arrow2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/iv_arrow1"
+                    android:layout_centerHorizontal="true"
+                    android:src="@drawable/drawer_arrow_up" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@id/content"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#fff"
+                android:clickable="true"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#9c9c9c"
+                    android:padding="5dp"
+                    android:text="进程管理设置" />
+
+                <com.itheima.mobilesafe21.view.SettingItemView
+                    android:id="@+id/siv_process_show"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/ic_launcher"
+                    android:clickable="true"
+                    itheima:bgType="first"
+                    itheima:title="显示系统进程" >
+                </com.itheima.mobilesafe21.view.SettingItemView>
+
+                <com.itheima.mobilesafe21.view.SettingItemView
+                    android:id="@+id/siv_process_clean"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/ic_launcher"
+                    android:clickable="true"
+                    itheima:bgType="last"
+                    itheima:title="锁屏自动清理" >
+                </com.itheima.mobilesafe21.view.SettingItemView>
+            </LinearLayout>
+        </SlidingDrawer>
+
+        <!-- include标签是直接将对应布局文件中内容直接添加在该处 -->
+        <!-- 注意：include标签中有关layout_的属性要设置在include标签，因为父容器不确定 -->
+
+        <include
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            layout="@layout/view_loading" />
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/bt_process_all"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/selector_button_bg"
+            android:text="全选"
+            android:textColor="#fff" />
+
+        <Button
+            android:id="@+id/bt_process_reverse"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/selector_button_bg"
+            android:text="反选"
+            android:textColor="#fff" />
+    </LinearLayout>
+
+</LinearLayout>

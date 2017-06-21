@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 16
+    buildToolsVersion "26.0.0"
+
+    defaultConfig {
+        applicationId "com.itheima.mobilesafe21"
+        minSdkVersion 14
+        targetSdkVersion 16
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':library_stickylistheaders21')
+    compile project(':library_circleprogress21')
+    compile 'com.android.support:support-v4:18.0.0'
+    compile files('libs/okhttp-3.2.0.jar')
+    compile files('libs/okio-1.7.0.jar')
+}

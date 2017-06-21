@@ -1,0 +1,416 @@
+[
+    {
+        "outputFile": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 43,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 36,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 36,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 3738,
+                    "endColumn": 57,
+                    "endOffset": 3791
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 3796,
+                    "endColumn": 55,
+                    "endOffset": 3847
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 3852,
+                    "endColumn": 52,
+                    "endOffset": 3900
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 52,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 3905,
+                    "endColumn": 49,
+                    "endOffset": 3950
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 49,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 3955,
+                    "endColumn": 52,
+                    "endOffset": 4003
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 52,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 4008,
+                    "endColumn": 68,
+                    "endOffset": 4072
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 795,
+                        "endColumn": 68,
+                        "endOffset": 859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 4077,
+                    "endColumn": 67,
+                    "endOffset": 4140
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 655,
+                        "endColumn": 67,
+                        "endOffset": 718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 4145,
+                    "endColumn": 77,
+                    "endOffset": 4218
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 77,
+                        "endOffset": 566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 4223,
+                    "endColumn": 73,
+                    "endOffset": 4292
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 73,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 4297,
+                    "endColumn": 60,
+                    "endOffset": 4353
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 60,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 4358,
+                    "endColumn": 68,
+                    "endOffset": 4422
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 68,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 4427,
+                    "endColumn": 69,
+                    "endOffset": 4492
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 724,
+                        "endColumn": 69,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 4497,
+                    "endColumn": 81,
+                    "endOffset": 4574
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endColumn": 81,
+                        "endOffset": 649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 4579,
+                    "endColumn": 66,
+                    "endOffset": 4641
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 66,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 4646,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 4933
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4938,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 5051
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 5056,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 5163
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5168,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 5375
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1197,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 5380,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 5795
+                },
+                "from": {
+                    "file": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 770,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1185
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp" 
+    android:background="@drawable/selector_gridview_item_bg">
+
+    <ImageView
+        android:id="@+id/iv_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/cygj" />
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@+id/iv_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="常用工具"
+        android:textSize="16sp" />
+    <TextView
+        android:id="@+id/tv_desc"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="25dp"
+        android:layout_toRightOf="@+id/iv_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="工具大全"
+        android:textColor="#9c9c9c"
+        android:textSize="12sp" />
+
+</RelativeLayout>

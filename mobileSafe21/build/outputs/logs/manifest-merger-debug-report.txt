@@ -1,0 +1,164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:2:1-95:12
+	package
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml
+		INJECTED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:5:5-34
+		INJECTED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml
+		INJECTED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml
+		INJECTED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:11:22-75
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:12:5-84
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:12:22-81
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:13:22-65
+uses-sdk
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:15:5-17:41
+MERGED from [MobileSafe21:library_stickylistheaders21:unspecified] D:\studio_workspace\MobileSafe21\library_stickylistheaders21\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:17:9-38
+		INJECTED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml
+		INJECTED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:16:9-35
+		INJECTED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml
+		INJECTED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml
+application
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:19:5-93:19
+	android:label
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:23:9-41
+	android:allowBackup
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:22:9-45
+	android:theme
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:24:9-40
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:20:9-74
+activity#com.itheima.mobilesafe21.activity.SplashActivity
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:25:9-36:20
+	android:label
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:27:13-45
+	android:theme
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:28:13-57
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:26:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:30:13-35:29
+action#android.intent.action.MAIN
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:31:13-65
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:31:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:34:23-70
+activity#com.itheima.mobilesafe21.activity.HomeActivity
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:37:9-45:20
+	android:label
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:38:13-50
+activity#com.itheima.mobilesafe21.SettingActivity
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:48:13-59
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:47:13-44
+activity#com.itheima.mobilesafe21.CommonToolActivity
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:50:9-53:20
+	android:label
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:52:13-63
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:51:13-47
+activity#com.itheima.mobilesafe21.LocationActivity
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:54:9-57:20
+	android:label
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:56:13-60
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:55:13-45
+service#com.itheima.mobilesafe21.service.LocationService
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:59:9-60:19
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:59:18-57
+service#com.itheima.mobilesafe21.service.AutoCleanService
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:61:9-62:19
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:61:18-58
+service#com.itheima.mobilesafe21.service.WatchDogService
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:63:9-64:19
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:63:18-57
+activity#com.itheima.mobilesafe21.CommonNumberActivity
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:66:9-69:20
+	android:label
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:68:13-65
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:67:13-49
+activity#com.itheima.mobilesafe21.ProcessManagerActivity
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:70:9-73:20
+	android:label
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:72:13-67
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:71:13-51
+activity#com.itheima.mobilesafe21.ProcessManager1Activity
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:74:9-77:20
+	android:label
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:76:13-67
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:75:13-52
+activity#com.itheima.mobilesafe21.AppLockActivity
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:78:9-81:20
+	android:label
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:80:13-60
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:79:13-44
+activity#com.itheima.mobilesafe21.PassWordActivity
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:83:9-87:20
+	android:label
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:85:13-61
+	android:launchMode
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:86:13-48
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:84:13-45
+activity#com.itheima.mobilesafe21.AntvirusActivity
+ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:88:9-92:20
+	android:label
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:91:13-60
+	android:configChanges
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:90:12-86
+	android:name
+		ADDED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:89:13-45
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\studio_workspace\MobileSafe21\mobileSafe21\src\main\AndroidManifest.xml:2:1-95:12 reason: com.github.lzyzsd.circleprogress requested WRITE_EXTERNAL_STORAGE

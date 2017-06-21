@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MobileSafe21</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_common_tool">CommonToolActivity</string>
+    <string name="title_activity_location">LocationActivity</string>
+    <string name="title_activity_common_number">CommonNumberActivity</string>
+    <string name="title_activity_process_manager">ProcessManagerActivity</string>
+    <string name="title_activity_app_lock">AppLockActivity</string>
+    <string name="title_activity_pass_word">PassWordActivity</string>
+    <string name="title_activity_antvirus">AntvirusActivity</string>
+
+</resources>

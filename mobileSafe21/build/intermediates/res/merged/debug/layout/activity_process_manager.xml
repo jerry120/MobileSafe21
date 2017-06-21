@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            style="@style/Style_tile"
+            android:text="进程管理" />
+
+        <ImageButton
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_alignParentRight="true"
+            android:background="@null"
+            android:src="@drawable/selector_process_clean" />
+    </RelativeLayout>
+
+    <com.itheima.mobilesafe21.view.ProcessDescView
+        android:id="@+id/pdv_process_num"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </com.itheima.mobilesafe21.view.ProcessDescView>
+
+    <com.itheima.mobilesafe21.view.ProcessDescView
+        android:id="@+id/pdv_process_memory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </com.itheima.mobilesafe21.view.ProcessDescView>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ListView
+            android:id="@+id/lv_process"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+        </ListView>
+        <include layout="@layout/view_process_item_title"/>
+
+        <!-- include标签是直接将对应布局文件中内容直接添加在该处 -->
+        <!-- 注意：include标签中有关layout_的属性要设置在include标签，因为父容器不确定 -->
+
+        <include
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            layout="@layout/view_loading" />
+    </FrameLayout>
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+#Sun Jun 18 00:06:29 CST 2017
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=D\:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\okio-1.7.0_e4347b2b78a181feeaa07b2bff089696c59d0455
+base.1=D\:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\okhttp-3.2.0_39fe2d5bf5fbad886604fa773e1139f0192437c3
+base.0=D\:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_5c13dae993a3a70564280b74f4a6300075997e8b
+file.2=D\:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\okio-1.7.0_e4347b2b78a181feeaa07b2bff089696c59d0455\\classes.dex
+file.1=D\:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\okhttp-3.2.0_39fe2d5bf5fbad886604fa773e1139f0192437c3\\classes.dex
+file.0=D\:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_5c13dae993a3a70564280b74f4a6300075997e8b\\classes.dex

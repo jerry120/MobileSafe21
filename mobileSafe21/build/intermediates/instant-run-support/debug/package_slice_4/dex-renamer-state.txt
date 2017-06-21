@@ -1,0 +1,4 @@
+#Sun Jun 18 00:06:30 CST 2017
+base.0=D\:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=D\:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

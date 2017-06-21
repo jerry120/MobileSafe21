@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\activity_location.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\activity_location.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\view_process_desc.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\view_process_desc.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\activity_common_tool.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\activity_common_tool.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pass_word.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\activity_pass_word.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\view_process_item.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\view_process_item.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\activity_process_manager1.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\activity_process_manager1.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\view_location_dialog_item.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\view_location_dialog_item.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\view_applock_item.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\view_applock_item.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\view_locaiton_dialog.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\view_locaiton_dialog.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\test9.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\test9.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\view_antivitus_item.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\view_antivitus_item.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\view_loading.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\view_loading.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\view_gridview_item.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\view_gridview_item.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\view_process_item_title.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\view_process_item_title.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\activity_common_number.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\activity_common_number.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\activity_antvirus.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\activity_antvirus.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\view_location.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\view_location.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\view_settingitemview.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\view_settingitemview.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\activity_app_lock.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\activity_app_lock.xml"
+    },
+    {
+        "merged": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\build\\intermediates\\res\\merged\\debug\\layout\\activity_process_manager.xml",
+        "source": "D:\\studio_workspace\\MobileSafe21\\mobileSafe21\\src\\main\\res\\layout\\activity_process_manager.xml"
+    }
+]

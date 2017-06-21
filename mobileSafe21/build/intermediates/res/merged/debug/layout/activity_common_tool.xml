@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:itheima="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <TextView
+        style="@style/Style_tile"
+        android:text="常用工具" />
+
+    <com.itheima.mobilesafe21.view.SettingItemView
+        android:id="@+id/siv_commomtool_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/ic_launcher"
+        android:clickable="true"
+        itheima:bgType="first"
+        itheima:enable="false"
+        itheima:title="号码归属地查询" >
+    </com.itheima.mobilesafe21.view.SettingItemView>
+
+    <com.itheima.mobilesafe21.view.SettingItemView
+        android:id="@+id/siv_commomtool_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_launcher"
+        android:clickable="true"
+        itheima:bgType="last"
+        itheima:enable="false"
+        itheima:title="常用号码查询" >
+    </com.itheima.mobilesafe21.view.SettingItemView>
+
+    <com.itheima.mobilesafe21.view.SettingItemView
+        android:id="@+id/siv_commomtool_applock"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/ic_launcher"
+        android:clickable="true"
+        itheima:bgType="first"
+        itheima:enable="false"
+        itheima:title="程序锁管理" >
+    </com.itheima.mobilesafe21.view.SettingItemView>
+
+    <com.itheima.mobilesafe21.view.SettingItemView
+        android:id="@+id/siv_commomtool_dog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_launcher"
+        android:clickable="true"
+        itheima:bgType="last"
+        itheima:title="开启电子狗服务" >
+    </com.itheima.mobilesafe21.view.SettingItemView>
+
+</LinearLayout>
